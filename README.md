@@ -36,7 +36,7 @@
 ![alt text](https://github.com/vilgelmanderson/Laboratornaya_3/blob/main/5.PNG)
 
 # Вывод
-В этой самостоятельной я научился базовому взаимодействию с числовыми типами данных и со строковыми типами даннных
+В этой самостоятельной я научился использовать: операторы +, -, *; условия if, else; циклы for, while. 
 
 # Лабораторная 3
 
@@ -103,3 +103,4 @@
 ![alt text](https://github.com/vilgelmanderson/Laboratornaya_3/blob/main/15.PNG)
 
 # Вывод
+В этой Лабораторной я научился использовать: операторы +, -, *; условия if, else; циклы for, while. 
